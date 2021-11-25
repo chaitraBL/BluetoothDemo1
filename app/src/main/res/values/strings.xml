@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BluetoothDemo1</string>
+    <string name="send">Send</string>
+    <string name="search_devices">Search Devices</string>
+    <string name="enable_bluetooth">Enable bluetooth</string>
+    <string name="paired_devices">Paired Devices</string>
+    <string name="available_devices">Available Devices</string>
+    <string name="scan_devices">Scan Devices</string>
+</resources>
